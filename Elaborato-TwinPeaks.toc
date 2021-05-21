@@ -1,0 +1,31 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {chapter}{\numberline {1}La nascita dell'analisi}{IV}%
+\contentsline {section}{\numberline {1.1}Gli assi cartesiani}{IV}%
+\contentsline {paragraph}{Storia}{IV}%
+\contentsline {paragraph}{Un nuovo modo di vedere il mondo}{V}%
+\contentsline {paragraph}{Definizione di assi cartesiani}{VI}%
+\contentsline {section}{\numberline {1.2}Funzione}{VII}%
+\contentsline {paragraph}{Definizione}{VII}%
+\contentsline {section}{\numberline {1.3}Derivate}{VIII}%
+\contentsline {paragraph}{Derivata in un punto}{VIII}%
+\contentsline {paragraph}{Punti di non derivabilità}{IX}%
+\contentsline {section}{\numberline {1.4}Integrali}{XIII}%
+\contentsline {paragraph}{Integrali definiti e indefiniti}{XIII}%
+\contentsline {paragraph}{Integrali impropri}{XIV}%
+\contentsline {section}{\numberline {1.5}Studio di una funzione}{XV}%
+\contentsline {paragraph}{Introduzione}{XV}%
+\contentsline {paragraph}{Studio della funzione $f(v)= \sqrt {1- \frac {v^2}{c^2}}$}{XV}%
+\contentsline {paragraph}{Grafico della funzione reciproca}{XVII}%
+\contentsline {paragraph}{Integrare in senso improprio}{XVII}%
+\contentsline {chapter}{\numberline {2}Dal XIX al XX secolo}{XIX}%
+\contentsline {section}{\numberline {2.1}Le dichiarazioni di Lord Kelvin e Amaldi}{XIX}%
+\contentsline {section}{\numberline {2.2}Relatività ristretta}{XXI}%
+\contentsline {paragraph}{I postulati della relatività ristretta}{XXI}%
+\contentsline {paragraph}{Le trasformazioni di Lorentz}{XXII}%
+\contentsline {paragraph}{Lorentz e Galileo}{XXIII}%
+\contentsline {section}{\numberline {2.3}Dilatazione dei tempi}{XXIII}%
+\contentsline {paragraph}{I dubbi sulla simultaneità}{XXIII}%
+\contentsline {chapter}{\numberline {3}Tempo e anima in S. Agostino}{XXIV}%
+\contentsline {chapter}{\numberline {4}Concezione moderna del tempo}{XXV}%
+\contentsline {chapter}{\numberline {5}Le metamorfosi di Philip Glass}{XXVI}%

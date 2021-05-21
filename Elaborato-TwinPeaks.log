@@ -1,0 +1,1283 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.30)  21 MAY 2021 12:36
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Elaborato-TwinPeaks.tex
+(./Elaborato-TwinPeaks.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-07-17>
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count168
+\c@chapter=\count169
+\c@section=\count170
+\c@subsection=\count171
+\c@subsubsection=\count172
+\c@paragraph=\count173
+\c@subparagraph=\count174
+\c@figure=\count175
+\c@table=\count176
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup6
+\symitalic=\mathgroup7
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+\MT@toks=\toks17
+\MT@count=\count177
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen135
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count178
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip49
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen136
+\Gin@req@width=\dimen137
+)
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen138
+\WF@size=\dimen139
+\c@WF@wrappedlines=\count179
+\WF@box=\box45
+\WF@everypar=\toks18
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip50
+\enit@outerparindent=\dimen140
+\enit@toks=\toks19
+\enit@inbox=\box46
+\enit@count@id=\count180
+\enitdp@description=\count181
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
+)
+(/usr/share/texlive/texmf-dist/tex/latex/index/index.sty
+Package: index 2004/01/20 v4.2beta Improved index support (dmj)
+\@indexbox=\insert199
+\indexproofstyle=\toks20
+
+
+LaTeX Warning: Command \markboth  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \markright  has changed.
+               Check if current package is valid.
+
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/07/13 3.47 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/07/13 3.47 Babel common definitions
+\babel@savecnt=\count182
+\U@D=\dimen141
+\l@babelnohyphens=\language6
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count183
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-italian/italian.ldf
+Language: italian 2020/05/21 v.1.4.04 Italian support for the babel system
+\it@lettering=\count184
+\it@doublequoteactive=\count185
+\it@ISOcompliance=\count186
+))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/07/15 v2.5i e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count187
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/05/30 v3.4k Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/07/20 v1.12b caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen142
+\captionmargin@=\dimen143
+\captionwidth=\dimen144
+\caption@tempdima=\dimen145
+\caption@indent=\dimen146
+\caption@parindent=\dimen147
+\caption@hangindent=\dimen148
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count188
+\c@continuedfloat=\count189
+Package caption Info: wrapfig package is loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks21
+\pgfutil@tempdima=\dimen149
+\pgfutil@tempdimb=\dimen150
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box47
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks22
+\pgfkeys@temptoks=\toks23
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks24
+))
+\pgf@x=\dimen151
+\pgf@y=\dimen152
+\pgf@xa=\dimen153
+\pgf@ya=\dimen154
+\pgf@xb=\dimen155
+\pgf@yb=\dimen156
+\pgf@xc=\dimen157
+\pgf@yc=\dimen158
+\pgf@xd=\dimen159
+\pgf@yd=\dimen160
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count190
+\c@pgf@countb=\count191
+\c@pgf@countc=\count192
+\c@pgf@countd=\count193
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
+\pgf@sys@id@count=\count194
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count195
+\pgfsyssoftpath@bigbuffer@items=\count196
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen161
+\pgfmath@count=\count197
+\pgfmath@box=\box48
+\pgfmath@toks=\toks28
+\pgfmath@stack@operand=\toks29
+\pgfmath@stack@operation=\toks30
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count198
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen162
+\pgf@picmaxx=\dimen163
+\pgf@picminy=\dimen164
+\pgf@picmaxy=\dimen165
+\pgf@pathminx=\dimen166
+\pgf@pathmaxx=\dimen167
+\pgf@pathminy=\dimen168
+\pgf@pathmaxy=\dimen169
+\pgf@xx=\dimen170
+\pgf@xy=\dimen171
+\pgf@yx=\dimen172
+\pgf@yy=\dimen173
+\pgf@zx=\dimen174
+\pgf@zy=\dimen175
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen176
+\pgf@path@lasty=\dimen177
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen178
+\pgf@shorten@start@additional=\dimen179
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box49
+\pgf@hbox=\box50
+\pgf@layerbox@main=\box51
+\pgf@picture@serial@count=\count266
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen180
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen181
+\pgf@pt@y=\dimen182
+\pgf@pt@temp=\dimen183
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen184
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen185
+\pgf@sys@shading@range@num=\count267
+\pgf@shadingcount=\count268
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box52
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box53
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen186
+\pgf@nodesepend=\dimen187
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen188
+\pgffor@skip=\dimen189
+\pgffor@stack=\toks31
+\pgffor@toks=\toks32
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count269
+\pgfplotmarksize=\dimen190
+)
+\tikz@lastx=\dimen191
+\tikz@lasty=\dimen192
+\tikz@lastxsaved=\dimen193
+\tikz@lastysaved=\dimen194
+\tikz@lastmovetox=\dimen195
+\tikz@lastmovetoy=\dimen196
+\tikzleveldistance=\dimen197
+\tikzsiblingdistance=\dimen198
+\tikz@figbox=\box54
+\tikz@figbox@bg=\box55
+\tikz@tempbox=\box56
+\tikz@tempbox@bg=\box57
+\tikztreelevel=\count270
+\tikznumberofchildren=\count271
+\tikznumberofcurrentchild=\count272
+\tikz@fig@count=\count273
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count274
+\pgfmatrixcurrentcolumn=\count275
+\pgf@matrix@numberofcolumns=\count276
+)
+\tikz@expandcount=\count277
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks33
+\t@pgfplots@tokb=\toks34
+\t@pgfplots@tokc=\toks35
+\pgfplots@tmpa=\dimen256
+\c@pgfplots@coordindex=\count278
+\c@pgfplots@scanlineindex=\count279
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code
+.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.t
+ex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
+gfsupp_loader.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotslists
+tructure.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotslists
+tructureext.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray
+.code.tex
+\c@pgfplotsarray@tmp=\count280
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatri
+x.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshare
+d.code.tex
+\c@pgfplotstable@counta=\count281
+\t@pgfplotstable@a=\toks36
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.te
+x
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.co
+de.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.sur
+fshading.code.tex
+\c@pgfplotslibrarysurf@no=\count282
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surf
+shading.pgfsys-pdftex.def)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.
+tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.t
+ex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.t
+ex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.cod
+e.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.
+tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.cod
+e.tex
+\pgfdecoratedcompleteddistance=\dimen257
+\pgfdecoratedremainingdistance=\dimen258
+\pgfdecoratedinputsegmentcompleteddistance=\dimen259
+\pgfdecoratedinputsegmentremainingdistance=\dimen260
+\pgf@decorate@distancetomove=\dimen261
+\pgf@decorate@repeatstate=\count283
+\pgfdecorationsegmentamplitude=\dimen262
+\pgfdecorationsegmentlength=\dimen263
+)
+\tikz@lib@dec@box=\box58
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.pathmorphing.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.pathmorphing.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.pathreplacing.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.pathreplacing.code.tex))
+\pgfplots@numplots=\count284
+\pgfplots@xmin@reg=\dimen264
+\pgfplots@xmax@reg=\dimen265
+\pgfplots@ymin@reg=\dimen266
+\pgfplots@ymax@reg=\dimen267
+\pgfplots@zmin@reg=\dimen268
+\pgfplots@zmax@reg=\dimen269
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.co
+de.tex
+File: pgflibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) (/usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count285
+\c@Blindtext=\count286
+\c@blind@countparstart=\count287
+\blind@countxx=\count288
+\blindtext@numBlindtext=\count289
+\blind@countyy=\count290
+\c@blindlist=\count291
+\c@blindlistlevel=\count292
+\c@blindlist@level=\count293
+\blind@listitem=\count294
+\c@blind@listcount=\count295
+\c@blind@levelcount=\count296
+\blind@mathformula=\count297
+\blind@Mathformula=\count298
+\c@blind@randomcount=\count299
+\c@blind@randommax=\count300
+\c@blind@pangramcount=\count301
+\c@blind@pangrammax=\count302
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+\c@subfigure=\count303
+\c@subtable=\count304
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip60
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks37
+\ex@=\dimen270
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen271
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count305
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count306
+\leftroot@=\count307
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count308
+\DOTSCASE@=\count309
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box59
+\strutbox@=\box60
+\big@size=\dimen272
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count310
+\c@MaxMatrixCols=\count311
+\dotsspace@=\muskip16
+\c@parentequation=\count312
+\dspbrk@lvl=\count313
+\tag@help=\toks38
+\row@=\count314
+\column@=\count315
+\maxfields@=\count316
+\andhelp@=\toks39
+\eqnshift@=\dimen273
+\alignsep@=\dimen274
+\tagshift@=\dimen275
+\tagwidth@=\dimen276
+\totwidth@=\dimen277
+\lineht@=\dimen278
+\@envbody=\toks40
+\multlinegap=\skip61
+\multlinetaggap=\skip62
+\mathdisplay@stack=\toks41
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+(/usr/share/texlive/texmf-dist/tex/latex/epigraph/epigraph.sty
+Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
+
+(/usr/share/texlive/texmf-dist/tex/latex/nextpage/nextpage.sty
+Package: nextpage 2009/09/03 v1.1a additional page commands
+)
+\beforeepigraphskip=\skip63
+\afterepigraphskip=\skip64
+\epigraphwidth=\skip65
+\epigraphrule=\skip66
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count317
+\l__pdf_internal_box=\box61
+)
+(./Elaborato-TwinPeaks.aux)
+\openout1 = `Elaborato-TwinPeaks.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 2
+3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Info: Redefining \microtypecontext on input line 23.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+LaTeX Info: Redefining \showhyphens on input line 23.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count318
+\scratchdimen=\dimen279
+\scratchbox=\box62
+\nofMPsegments=\count319
+\nofMParguments=\count320
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count321
+\MPscratchDim=\dimen280
+\MPnumerator=\count322
+\makeMPintoPDFobject=\count323
+\everyMPtoPDFconversion=\toks43
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Info: Redefining \it@ocap on input line 23.
+LaTeX Info: Redefining \it@ccap on input line 23.
+
+
+File italian.ldf warning: 
+italian.ldf    With OT1 encoding guillemets are poorly faked
+italian.ldf    Use T1 encoding
+italian.ldf    or specify a font with command \CaporaliFrom
+italian.ldf    See the documentation concerning the babel-italian typesetting 
+italian.ldf    on input line 23.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ABD: EveryShipout initializing macros
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into 
+your preamble.
+ on input line 23.
+
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
+ 28.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `ztmcm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
+ 28.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
+ 28.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
+ 28.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 28.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 28.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 28.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
+ [1] (./Elaborato-TwinPeaks.toc
+Overfull \hbox (2.05179pt too wide) detected at line 10
+ []\OT1/ptm/m/n/12 VIII
+ []
+
+
+Overfull \hbox (2.05179pt too wide) detected at line 13
+ []\OT1/ptm/m/n/12 XIII
+ []
+
+
+Overfull \hbox (2.72383pt too wide) detected at line 22
+ []\OT1/ptm/m/n/12 XIX
+ []
+
+
+Overfull \hbox (2.72383pt too wide) detected at line 23
+ []\OT1/ptm/m/n/12 XXI
+ []
+
+
+Overfull \hbox (10.71574pt too wide) detected at line 27
+ []\OT1/ptm/m/n/12 XXIII
+ []
+
+)
+\tf@toc=\write4
+\openout4 = `Elaborato-TwinPeaks.toc'.
+
+ [3
+
+]
+Capitolo 1.
+<Oresme-Nicole.jpg, id=18, 216.44865pt x 366.22823pt>
+File: Oresme-Nicole.jpg Graphic file (type jpg)
+<use Oresme-Nicole.jpg>
+Package pdftex.def Info: Oresme-Nicole.jpg  used on input line 60.
+(pdftex.def)             Requested size: 85.80048pt x 145.16988pt.
+<Frans_Hals_-_Portret_van_René_Descartes.jpg, id=19, 820.06375pt x 1003.75pt>
+File: Frans_Hals_-_Portret_van_René_Descartes.jpg Graphic file (type jpg)
+<use Frans_Hals_-_Portret_van_René_Descartes.jpg>
+Package pdftex.def Info: Frans_Hals_-_Portret_van_René_Descartes.jpg  used on 
+input line 71.
+(pdftex.def)             Requested size: 81.90262pt x 100.24303pt.
+[4
+
+ <./Oresme-Nicole.jpg>] [5 <./Frans_Hals_-_Portret_van_René_Descartes.jpg>]
+<Cartesian_with_grid.svg.png, id=26, 441.65pt x 393.47pt>
+File: Cartesian_with_grid.svg.png Graphic file (type png)
+<use Cartesian_with_grid.svg.png>
+Package pdftex.def Info: Cartesian_with_grid.svg.png  used on input line 87.
+(pdftex.def)             Requested size: 77.99881pt x 69.48868pt.
+
+Underfull \hbox (badness 1102) in paragraph at lines 88--88
+[]\OT1/ptm/b/n/10.95 Figura 1.3: |\OT1/ptm/m/n/10.95 (+20) Si-ste-
+ []
+
+[6 <./Cartesian_with_grid.svg.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+
+ []
+
+<esempio-di-funzione-1.png, id=33, 301.125pt x 155.58125pt>
+File: esempio-di-funzione-1.png Graphic file (type png)
+<use esempio-di-funzione-1.png>
+Package pdftex.def Info: esempio-di-funzione-1.png  used on input line 136.
+(pdftex.def)             Requested size: 81.89964pt x 42.31374pt.
+<esempio-di-funzione-2.png, id=34, 301.125pt x 155.58125pt>
+File: esempio-di-funzione-2.png Graphic file (type png)
+<use esempio-di-funzione-2.png>
+Package pdftex.def Info: esempio-di-funzione-2.png  used on input line 140.
+(pdftex.def)             Requested size: 81.89964pt x 42.31374pt.
+
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 135--143
+[]$[]$ $[]$ 
+ []
+
+<esempio-di-non-funzione.png, id=35, 301.125pt x 201.75375pt>
+File: esempio-di-non-funzione.png Graphic file (type png)
+<use esempio-di-non-funzione.png>
+Package pdftex.def Info: esempio-di-non-funzione.png  used on input line 145.
+(pdftex.def)             Requested size: 105.29869pt x 70.55022pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--153
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
+62.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [7 <./esempio-di-funzione-1.png> <./esempio-di-funzione-2.png> <./esempio-di-
+non-funzione.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 170--172
+
+ []
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 173.
+
+<disegno_PQR.png, id=44, 1606.0pt x 942.52126pt>
+File: disegno_PQR.png Graphic file (type png)
+<use disegno_PQR.png>
+Package pdftex.def Info: disegno_PQR.png  used on input line 180.
+(pdftex.def)             Requested size: 353.32109pt x 207.35532pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--188
+
+ []
+
+[8 <./disegno_PQR.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 188--191
+
+ []
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 192.
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 193.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+
+ []
+
+NOTE: coordinate (1Y1.2569e-5],3Y0.0e0]) has been dropped because it is unbound
+ed (in y). (see also unbounded coords=jump). 
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 239--242
+
+ []
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 243.
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 244.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+
+ []
+
+NOTE: coordinate (1Y1.2569e-5],3Y0.0e0]) has been dropped because it is unbound
+ed (in y). (see also unbounded coords=jump). 
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--291
+
+ []
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 292.
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 293.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 339--341
+
+ []
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 342.
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 343.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
+
+ []
+
+[11]
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 391.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--393
+
+ []
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 394.
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 395.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--400
+
+ []
+
+[12]
+NOTE: coordinate (2Y3.0e0],3Y0.0e0]) has been dropped because it is unbounded (
+in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.9447241e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.8894482e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.8341724e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.7788965e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.7236206e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.6683447e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.6130688e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.557793e0],3Y0.0e0]) has been dropped because it is unboun
+ded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.5025171e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.4472412e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.3919653e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.3366895e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.2814136e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.2261377e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.1708618e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.115586e0],3Y0.0e0]) has been dropped because it is unboun
+ded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.06031e0],3Y0.0e0]) has been dropped because it is unbound
+ed (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.0050342e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y1.9497583e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y1.8944824e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y1.8392065e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y1.7839307e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y1.7286548e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y1.6733789e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y1.618103e0],3Y0.0e0]) has been dropped because it is unboun
+ded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y1.5628271e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y1.5075513e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y1.4522754e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y1.3969995e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y1.3417236e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y1.2864478e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y1.2311719e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y1.175896e0],3Y0.0e0]) has been dropped because it is unboun
+ded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y1.1206201e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y1.0653442e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y1.0100684e0],3Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--442
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 447--449
+
+ []
+
+[13]
+NOTE: coordinate (0Y0.0e0],4Y0.0e0]) has been dropped because it is unbounded (
+in y). (see also unbounded coords=jump). 
+
+Overfull \hbox (31.18251pt too wide) in paragraph at lines 503--504
+[][] 
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 507--508
+[] \OT1/ptm/b/n/12 In-te-gra-li im-pro-pri[] \OT1/ptm/m/n/12 (+20) Quan-do si t
+rat-ta-no in-te-gra-
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 507--508
+\OT1/ptm/m/n/12 (+20) li de-fi-ni-ti e in-de-fi-ni-ti si []e so-li-ti pre-met-t
+e-re nel-
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 507--508
+\OT1/ptm/m/n/12 (+20) ti-nua in $\OT1/ztmcm/m/n/12 [\OML/ztmcm/m/it/12 a\OT1/zt
+mcm/m/n/12 ; \OML/ztmcm/m/it/12 b\OT1/ztmcm/m/n/12 ]$\OT1/ptm/m/n/12 (+20) . Tu
+t-ta-via, esi-ste un al-tro sen-so
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 507--508
+\OT1/ptm/m/n/12 (+20) sen-so im-pro-prio, la cui con-di-zio-ne ne-ces-sa-ria []
+e
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 514--515
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--517
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 527--530
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 537--538
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 567--568
+
+ []
+
+[16]
+NOTE: coordinate (2Y3.0e0],4Y0.0e0]) has been dropped because it is unbounded (
+in y). (see also unbounded coords=jump). 
+NOTE: coordinate (1Y3.0000027e0],4Y0.0e0]) has been dropped because it is unbou
+nded (in y). (see also unbounded coords=jump). 
+[17] [18]
+Capitolo 2.
+[19
+
+]
+<1920px-Modernphysicsfields.svg.png, id=89, 1927.2pt x 869.2475pt>
+File: 1920px-Modernphysicsfields.svg.png Graphic file (type png)
+<use 1920px-Modernphysicsfields.svg.png>
+Package pdftex.def Info: 1920px-Modernphysicsfields.svg.png  used on input line
+ 676.
+(pdftex.def)             Requested size: 195.0pt x 87.95114pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 679--680
+
+ []
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 681.
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 681.
+
+[20 <./1920px-Modernphysicsfields.svg.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 699--700
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 707--708
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 709--710
+
+ []
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 716.
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 718.
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 752--753
+
+ []
+
+[23]
+Capitolo 3.
+[24
+
+]
+Capitolo 4.
+[25
+
+]
+Capitolo 5.
+[26
+
+] [27
+
+] (./Elaborato-TwinPeaks.aux) ) 
+Here is how much of TeX's memory you used:
+ 28264 strings out of 482802
+ 683453 string characters out of 5955390
+ 1386333 words of memory out of 5000000
+ 42905 multiletter control sequences out of 15000+600000
+ 606647 words of font info for 290 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 63i,13n,100p,1216b,2155s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/b
+ase/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
+/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Elaborato-TwinPeaks.pdf (27 pages, 1413259 bytes).
+PDF statistics:
+ 150 PDF objects out of 1000 (max. 8388607)
+ 96 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 41013 words of extra memory for PDF output out of 42996 (max. 10000000)
+
