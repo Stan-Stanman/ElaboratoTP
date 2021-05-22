@@ -26,6 +26,8 @@
 \contentsline {paragraph}{Lorentz e Galileo}{XXIII}%
 \contentsline {section}{\numberline {2.3}Dilatazione dei tempi}{XXIII}%
 \contentsline {paragraph}{I dubbi sulla simultaneità}{XXIII}%
-\contentsline {chapter}{\numberline {3}Tempo e anima in S. Agostino}{XXIV}%
-\contentsline {chapter}{\numberline {4}Concezione moderna del tempo}{XXV}%
-\contentsline {chapter}{\numberline {5}Le metamorfosi di Philip Glass}{XXVI}%
+\contentsline {paragraph}{Simultaneità relativistica}{XXIV}%
+\contentsline {paragraph}{Il paradosso dei gemelli}{XXV}%
+\contentsline {chapter}{\numberline {3}Tempo e anima in S. Agostino}{XXVI}%
+\contentsline {chapter}{\numberline {4}Concezione moderna del tempo}{XXVII}%
+\contentsline {chapter}{\numberline {5}Le metamorfosi di Philip Glass}{XXVIII}%
