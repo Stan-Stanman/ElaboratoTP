@@ -29,6 +29,10 @@
 \contentsline {paragraph}{Simultaneità relativistica}{XXIV}%
 \contentsline {paragraph}{Il paradosso dei gemelli}{XXV}%
 \contentsline {section}{\numberline {2.4}Contrazione delle lunghezze}{XXVI}%
-\contentsline {chapter}{\numberline {3}Tempo e anima in S. Agostino}{XXVII}%
-\contentsline {chapter}{\numberline {4}Concezione moderna del tempo}{XXVIII}%
-\contentsline {chapter}{\numberline {5}Le metamorfosi di Philip Glass}{XXIX}%
+\contentsline {section}{\numberline {2.5}Galileo e Lorentz a confronto}{XXVI}%
+\contentsline {paragraph}{Soluzione 1}{XXVII}%
+\contentsline {paragraph}{Soluzione 2}{XXVIII}%
+\contentsline {section}{\numberline {2.6}Onde e particelle}{XXVIII}%
+\contentsline {chapter}{\numberline {3}Tempo e anima in S. Agostino}{XXIX}%
+\contentsline {chapter}{\numberline {4}Concezione moderna del tempo}{XXX}%
+\contentsline {chapter}{\numberline {5}Le metamorfosi di Philip Glass}{XXXI}%

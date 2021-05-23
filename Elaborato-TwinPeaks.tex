@@ -811,10 +811,84 @@ Quindi nel momento del ricongiungimento, quando Carlo ha solo 35 anni, Franco ne
 Un'altra importante considerazione su questo paradosso, riguarda il fatto che entrambi i fratelli, consci della teoria della relatività ristretta, dovrebbero aspettarsi nel momento del ricongiungimento di trovare l'altro fratello più anziano. Ciò in realtà avviene solo per il fratello che ha viaggiato, in quanto il fatto stesso che abbia iniziato "un viaggio" presuppone che da un momento in cui era fermo sulla Terra, abbia accelerato, per poi fermarsi e cambiare rotta, riaccelerando. Sistemi in movimento sottoposti ad accelerazioni non possono essere trattati applicando la relatività ristretta, ma la relatività generale, in cui non si tiene conto solo della meccanica e dell’elettromagnetismo, ma anche della gravità.
 
 \section{Contrazione delle lunghezze}
-Così come l'intervallo di tempo tra due istanti, anche la distanza tra due punti è una grandezza relativa.
-Infatti, se ipotizziamo 
+Così come l'intervallo di tempo tra due istanti, anche la distanza tra due punti è una grandezza relativa.\\
+Infatti, si ipotizzi una navicella che parte dalla Terra per giungere su Plutone, viaggiando a velocità prossime a $c$. Per gli osservatori che si trovano fuori dalla navicella, la Terra e Plutone sono ferme (non considerando il loro moto rotazionale) e la navicella si muove  a velocità $v$. Da questo punto di vista la distanza tra Plutone e la Terra è pari a $d = v\:\Delta t$.\\ 
+Dal punto di vista di chi è nella navicella invece,  è la navicella stessa a essere ferma mentre i due pianeti, Terra e Plutone, sembrano rispettivamente allontanarsi e avvicinarsi con velocità $-v$. Trovandoci a velocità prossime a $c$ dobbiamo tenere conto, inevitabilmente, della dilatazione dei tempi e infatti: 
+\begin{center}
+$\Delta t' = \sqrt{1 - \dfrac{v^2}{c^2}} \cdot \Delta t \qquad \implies \quad \Delta t' < \Delta t$
+\end{center}
+Di conseguenza, anche la lunghezza degli spazi sarà sottoposta alla relatività, mettendo un ulteriore macigno sulla passata teoria secondo la quale spazio e tempo sono grandezze assolute.
+\begin{center}
+$d' = v\: \Delta t' = \sqrt{1- \dfrac{v^2}{c^2}} \cdot v \cdot \Delta t = \sqrt{1- \dfrac{v^2}{c^2}}\:d \qquad \implies \quad d'<d$
+\end{center}
+
+\section{Galileo e Lorentz a confronto}
+Si consideri questo problema:
+\newtheorem{problem}{Problema}
+\begin{problem}
+Due elettroni viaggiano nella stessa direzione ed in versi opposti entrambi con velocità
+0,70c. Si calcoli la velocità di un elettrone rispetto all’altro applicando la legge di
+composizione classica delle velocità. Si spieghi perché il risultato non è accettabile e si
+risolva correttamente.
+\end{problem}
+
+\paragraph{Soluzione 1} Secondo il modello classico, applicando le trasformazioni di Galileo, considerando un sistema di riferimento $O$ fissato su uno degli elettroni e un sistema $O'$ fissato sull'altro: \\
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.7\textwidth]{bitmap.png}
+\caption{Sitema $O$ (sinistra) e $O'$(destra)}
+\end{figure}
+Assumendo questo punto di vista, e assumendo quindi la posizione sul sistema $O$ della prima particella, invariabile nel tempo e fissa in $(0;0)$, e considerando nulla la sua velocità, applicchiamo le trasformazioni di Galileo sulle coordinate della seconda particella in $O$ e $O'$:\\ 
 
 
+\begin{center}
+$\begin{cases}
+  x=x' + v\:t\\
+  y=y'\\
+  z=z'\\
+  t=t'
+\end{cases}
+\;\implies\;
+\begin{cases}
+ \frac{\Delta x}{\Delta t} = \frac{\Delta x'}{\Delta t} +\frac{v\;\cancel{\Delta t}}{{\cancel{\Delta t}}}\\
+ \Delta y= \Delta y' = 0\\
+ \Delta z= \Delta z' = 0 \\
+ \Delta t= \Delta t'\\
+\end{cases}
+\;\implies\;
+\begin{cases}
+ u_x = u'_x + v\\
+ \Delta t= \Delta t'\\
+\end{cases}$
+\end{center}
+Essendo quindi la velocità con cui il sistema $O'$ si muove rispetto a $O$ pari a $v=0.70\:c$ ed essendo la velocità con cui la seconda particella si muove in $O'$ pari a $u'_x=0.70\:c$:
+\medskip
+\begin{center}
+$\implies \qquad 
+\begin{cases}
+ u_x = 0.70\:c + 0.70\:c = \textbf{1.40\:c}>c\\
+ \Delta t= \Delta t'\\
+\end{cases}$
+\end{center}
+Questo risultato è incompatibile con la teoria di Maxwell, e col senno di poi, possiamo asserire che questo risultato è incompatibile con la realtà.
+\paragraph{Soluzione 2} Se invece operassimo secondo il modello della relatività ristretta, potremmo ottenere dei risultati più fedeli alla realtà. Infatti applicando le trasformazioni di Lorentz:
+\begin{center}
+      $\begin{cases}
+        x=\gamma\:(x' + v\:t') = \gamma\:(u'_x + v)\:t'\\
+        y=y'\\
+        z=z'\\
+        t=\gamma\:(t' + \beta\:\dfrac{x'}{c}) = \gamma\:(t' + \dfrac{v\:x'}{c^2} = \gamma\;(1 +\dfrac{u'_x\:v}{c^2})\:t'
+      \end{cases}
+      \;\implies\;
+      u_x=\dfrac{x}{t} = \dfrac{u'_x + v}{1 +\dfrac{u'_x\:v}{c^2}}$
+\end{center}
+E quindi essendo $v=0.70\:c$ ed essendo $u'_x=0.70\:c$:
+\begin{center}
+$u_x= \dfrac{0.70\:c + 0.70\:c}{1 + \dfrac{(0.70)^2\:\cancel{c^2}}{\cancel{c^2}}} \approx \textbf{0.94\:c}<c$
+\end{center}
+
+\section{Onde e particelle}
 
 
 
