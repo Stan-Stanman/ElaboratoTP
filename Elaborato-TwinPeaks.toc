@@ -37,6 +37,7 @@
 \contentsline {paragraph}{Particelle e onde attraverso delle fenditure}{XXIX}%
 \contentsline {paragraph}{Cosa succede con gli elettroni?}{XXXI}%
 \contentsline {paragraph}{Principio di indeterminazione di Heisenberg}{XXXII}%
-\contentsline {chapter}{\numberline {3}Tempo e anima in S. Agostino}{XXXIV}%
-\contentsline {chapter}{\numberline {4}Il tempo in Twin Peaks}{XXXV}%
-\contentsline {chapter}{\numberline {5}Le metamorfosi di Philip Glass}{XXXVI}%
+\contentsline {chapter}{\numberline {3}Metamorfosi e trasformazioni}{XXXIV}%
+\contentsline {section}{\numberline {3.1}Dante, Sant'Agostino e Twin Peaks}{XXXIV}%
+\contentsline {paragraph}{La \textit {magnum opus} di Dante}{XXXIV}%
+\contentsline {section}{\numberline {3.2}Le metamorfosi di Philip Glass}{XXXVII}%
