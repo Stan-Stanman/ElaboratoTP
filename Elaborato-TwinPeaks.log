@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.30)  31 MAY 2021 16:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.30)  31 MAY 2021 19:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -866,13 +866,13 @@ Capitolo 1.
 <Oresme-Nicole.jpg, id=19, 216.44865pt x 366.22823pt>
 File: Oresme-Nicole.jpg Graphic file (type jpg)
 <use Oresme-Nicole.jpg>
-Package pdftex.def Info: Oresme-Nicole.jpg  used on input line 56.
+Package pdftex.def Info: Oresme-Nicole.jpg  used on input line 58.
 (pdftex.def)             Requested size: 85.80048pt x 145.16988pt.
 <Frans_Hals_-_Portret_van_René_Descartes.jpg, id=20, 820.06375pt x 1003.75pt>
 File: Frans_Hals_-_Portret_van_René_Descartes.jpg Graphic file (type jpg)
 <use Frans_Hals_-_Portret_van_René_Descartes.jpg>
 Package pdftex.def Info: Frans_Hals_-_Portret_van_René_Descartes.jpg  used on 
-input line 66.
+input line 68.
 (pdftex.def)             Requested size: 81.90262pt x 100.24303pt.
 [4
 
@@ -880,156 +880,156 @@ input line 66.
 <Cartesian_with_grid.svg.png, id=27, 441.65pt x 393.47pt>
 File: Cartesian_with_grid.svg.png Graphic file (type png)
 <use Cartesian_with_grid.svg.png>
-Package pdftex.def Info: Cartesian_with_grid.svg.png  used on input line 82.
+Package pdftex.def Info: Cartesian_with_grid.svg.png  used on input line 84.
 (pdftex.def)             Requested size: 77.99881pt x 69.48868pt.
 
-Underfull \hbox (badness 1102) in paragraph at lines 83--83
+Underfull \hbox (badness 1102) in paragraph at lines 85--85
 []\OT1/ptm/b/n/10.95 Figura 1.3: |\OT1/ptm/m/n/10.95 (+20) Si-ste-
  []
 
 [6 <./Cartesian_with_grid.svg.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 124--126
+Underfull \hbox (badness 10000) in paragraph at lines 126--128
 
  []
 
 <esempio-di-funzione-1.png, id=34, 301.125pt x 155.58125pt>
 File: esempio-di-funzione-1.png Graphic file (type png)
 <use esempio-di-funzione-1.png>
-Package pdftex.def Info: esempio-di-funzione-1.png  used on input line 131.
+Package pdftex.def Info: esempio-di-funzione-1.png  used on input line 133.
 (pdftex.def)             Requested size: 81.89964pt x 42.31374pt.
 <esempio-di-funzione-2.png, id=35, 301.125pt x 155.58125pt>
 File: esempio-di-funzione-2.png Graphic file (type png)
 <use esempio-di-funzione-2.png>
-Package pdftex.def Info: esempio-di-funzione-2.png  used on input line 135.
+Package pdftex.def Info: esempio-di-funzione-2.png  used on input line 137.
 (pdftex.def)             Requested size: 81.89964pt x 42.31374pt.
 
-Overfull \hbox (2.28003pt too wide) in paragraph at lines 130--138
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 132--140
 []$[]$ $[]$ 
  []
 
 <esempio-di-non-funzione.png, id=36, 301.125pt x 201.75375pt>
 File: esempio-di-non-funzione.png Graphic file (type png)
 <use esempio-di-non-funzione.png>
-Package pdftex.def Info: esempio-di-non-funzione.png  used on input line 140.
+Package pdftex.def Info: esempio-di-non-funzione.png  used on input line 142.
 (pdftex.def)             Requested size: 105.29869pt x 70.55022pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--148
+Underfull \hbox (badness 10000) in paragraph at lines 148--150
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--152
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
-57.
+59.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) [7 <./esempio-di-funzione-1.png> <./esempio-di-funzione-2.png> <./esempio-di-
 non-funzione.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 165--167
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
 
  []
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 168.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 170.
 
 <disegno_PQR.png, id=45, 1606.0pt x 942.52126pt>
 File: disegno_PQR.png Graphic file (type png)
 <use disegno_PQR.png>
-Package pdftex.def Info: disegno_PQR.png  used on input line 175.
+Package pdftex.def Info: disegno_PQR.png  used on input line 177.
 (pdftex.def)             Requested size: 353.32109pt x 207.35532pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 180--183
+Underfull \hbox (badness 10000) in paragraph at lines 182--185
 
  []
 
 [8 <./disegno_PQR.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 183--186
+Underfull \hbox (badness 10000) in paragraph at lines 185--188
 
  []
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 187.
+LaTeX Warning: Command \textendash invalid in math mode on input line 189.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 188.
+LaTeX Warning: Command \textendash invalid in math mode on input line 190.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--191
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
 
  []
 
 NOTE: coordinate (1Y1.2569e-5],3Y0.0e0]) has been dropped because it is unbound
 ed (in y). (see also unbounded coords=jump). 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 234--237
+Underfull \hbox (badness 10000) in paragraph at lines 236--239
 
  []
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 238.
+LaTeX Warning: Command \textendash invalid in math mode on input line 240.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 239.
+LaTeX Warning: Command \textendash invalid in math mode on input line 241.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 241--242
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
 
  []
 
 NOTE: coordinate (1Y1.2569e-5],3Y0.0e0]) has been dropped because it is unbound
 ed (in y). (see also unbounded coords=jump). 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--286
+Underfull \hbox (badness 10000) in paragraph at lines 286--288
 
  []
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 287.
+LaTeX Warning: Command \textendash invalid in math mode on input line 289.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 288.
+LaTeX Warning: Command \textendash invalid in math mode on input line 290.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 291--292
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
 
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 334--336
+Underfull \hbox (badness 10000) in paragraph at lines 336--338
 
  []
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 337.
+LaTeX Warning: Command \textendash invalid in math mode on input line 339.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 338.
+LaTeX Warning: Command \textendash invalid in math mode on input line 340.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--342
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
 
  []
 
 [11]
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 386.
+LaTeX Warning: Command \textendash invalid in math mode on input line 388.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 384--388
+Underfull \hbox (badness 10000) in paragraph at lines 386--390
 
  []
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 389.
+LaTeX Warning: Command \textendash invalid in math mode on input line 391.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 390.
+LaTeX Warning: Command \textendash invalid in math mode on input line 392.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 394--395
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
 
  []
 
@@ -1109,12 +1109,12 @@ nded (in y). (see also unbounded coords=jump).
 NOTE: coordinate (2Y1.0100684e0],3Y0.0e0]) has been dropped because it is unbou
 nded (in y). (see also unbounded coords=jump). 
 
-Underfull \hbox (badness 10000) in paragraph at lines 436--437
+Underfull \hbox (badness 10000) in paragraph at lines 438--439
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--444
+Underfull \hbox (badness 10000) in paragraph at lines 444--446
 
  []
 
@@ -1122,42 +1122,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 442--444
 NOTE: coordinate (0Y0.0e0],4Y0.0e0]) has been dropped because it is unbounded (
 in y). (see also unbounded coords=jump). 
 
-Overfull \hbox (31.18251pt too wide) in paragraph at lines 498--499
+Overfull \hbox (31.18251pt too wide) in paragraph at lines 500--501
 [][] 
  []
 
 
-Underfull \hbox (badness 2103) in paragraph at lines 502--503
+Underfull \hbox (badness 2103) in paragraph at lines 504--505
 [] \OT1/ptm/b/n/12 In-te-gra-li im-pro-pri[] \OT1/ptm/m/n/12 (+20) Quan-do si t
 rat-ta-no in-te-gra-
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 502--503
+Underfull \hbox (badness 1158) in paragraph at lines 504--505
 \OT1/ptm/m/n/12 (+20) li de-fi-ni-ti e in-de-fi-ni-ti si []e so-li-ti pre-met-t
 e-re nel-
  []
 
 
-Underfull \hbox (badness 1484) in paragraph at lines 502--503
+Underfull \hbox (badness 1484) in paragraph at lines 504--505
 \OT1/ptm/m/n/12 (+20) ti-nua in $\OT1/ztmcm/m/n/12 [\OML/ztmcm/m/it/12 a\OT1/zt
 mcm/m/n/12 ; \OML/ztmcm/m/it/12 b\OT1/ztmcm/m/n/12 ]$\OT1/ptm/m/n/12 (+20) . Tu
 t-ta-via, esi-ste un al-tro sen-so
  []
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 502--503
+Underfull \hbox (badness 1062) in paragraph at lines 504--505
 \OT1/ptm/m/n/12 (+20) sen-so im-pro-prio, la cui con-di-zio-ne ne-ces-sa-ria []
 e
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 502--503
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 509--510
+Underfull \hbox (badness 10000) in paragraph at lines 504--505
 
  []
 
@@ -1166,18 +1161,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 511--512
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
+
+ []
+
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 522--525
+Underfull \hbox (badness 10000) in paragraph at lines 524--527
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 532--533
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
 
  []
 
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 562--563
+Underfull \hbox (badness 10000) in paragraph at lines 564--565
 
  []
 
@@ -1195,42 +1195,42 @@ Capitolo 2.
 File: 1920px-Modernphysicsfields.svg.png Graphic file (type png)
 <use 1920px-Modernphysicsfields.svg.png>
 Package pdftex.def Info: 1920px-Modernphysicsfields.svg.png  used on input line
- 671.
+ 673.
 (pdftex.def)             Requested size: 195.0pt x 87.95114pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 674--675
+Underfull \hbox (badness 10000) in paragraph at lines 676--677
 
  []
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 676.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 678.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 676.
+LaTeX Warning: Command \textendash invalid in math mode on input line 678.
 
 [20 <./1920px-Modernphysicsfields.svg.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 694--695
+Underfull \hbox (badness 10000) in paragraph at lines 696--697
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 702--703
-
- []
-
-[21]
 Underfull \hbox (badness 10000) in paragraph at lines 704--705
 
  []
 
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 706--707
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 711.
+ []
 
 
 LaTeX Warning: Command \textquoteright invalid in math mode on input line 713.
 
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 715.
+
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 747--748
+Underfull \hbox (badness 10000) in paragraph at lines 749--750
 
  []
 
@@ -1238,19 +1238,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 747--748
 <lAnHM.png, id=104, 401.5pt x 602.25pt>
 File: lAnHM.png Graphic file (type png)
 <use lAnHM.png>
-Package pdftex.def Info: lAnHM.png  used on input line 780.
+Package pdftex.def Info: lAnHM.png  used on input line 782.
 (pdftex.def)             Requested size: 136.50238pt x 204.7531pt.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 786.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 788.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 787.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 789.
 
 [24 <./lAnHM.png>] [25]
 \c@problem=\count306
 
-Underfull \hbox (badness 10000) in paragraph at lines 830--831
+Underfull \hbox (badness 10000) in paragraph at lines 832--833
 
  []
 
@@ -1258,10 +1258,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 830--831
 <bitmap.png, id=116, 1127.21124pt x 796.9775pt>
 File: bitmap.png Graphic file (type png)
 <use bitmap.png>
-Package pdftex.def Info: bitmap.png  used on input line 834.
+Package pdftex.def Info: bitmap.png  used on input line 836.
 (pdftex.def)             Requested size: 272.99881pt x 193.0175pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 837--838
+Underfull \hbox (badness 10000) in paragraph at lines 839--840
 
  []
 
@@ -1269,36 +1269,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 837--838
 <cannone-particelle.png, id=124, 1127.21124pt x 796.9775pt>
 File: cannone-particelle.png Graphic file (type png)
 <use cannone-particelle.png>
-Package pdftex.def Info: cannone-particelle.png  used on input line 909.
+Package pdftex.def Info: cannone-particelle.png  used on input line 911.
 (pdftex.def)             Requested size: 390.0pt x 275.74799pt.
  [29 <./cannone-particelle.png>]
 <sorgente.onde.png, id=129, 1127.21124pt x 796.9775pt>
 File: sorgente.onde.png Graphic file (type png)
 <use sorgente.onde.png>
-Package pdftex.def Info: sorgente.onde.png  used on input line 923.
+Package pdftex.def Info: sorgente.onde.png  used on input line 925.
 (pdftex.def)             Requested size: 390.0pt x 275.74799pt.
  [30 <./sorgente.onde.png>]
 <emettitore-elettroni.png, id=134, 1127.21124pt x 796.9775pt>
 File: emettitore-elettroni.png Graphic file (type png)
 <use emettitore-elettroni.png>
-Package pdftex.def Info: emettitore-elettroni.png  used on input line 938.
+Package pdftex.def Info: emettitore-elettroni.png  used on input line 940.
 (pdftex.def)             Requested size: 390.0pt x 275.74799pt.
  [31 <./emettitore-elettroni.png>]
 <emettitore-elettroni-illuminato.png, id=140, 1127.21124pt x 796.9775pt>
 File: emettitore-elettroni-illuminato.png Graphic file (type png)
 <use emettitore-elettroni-illuminato.png>
 Package pdftex.def Info: emettitore-elettroni-illuminato.png  used on input lin
-e 953.
+e 955.
 (pdftex.def)             Requested size: 390.0pt x 275.74799pt.
  [32 <./emettitore-elettroni-illuminato.png>] [33]
 Capitolo 3.
 <Magnum_Opus.jpg, id=148, 1405.25pt x 714.67pt>
 File: Magnum_Opus.jpg Graphic file (type jpg)
 <use Magnum_Opus.jpg>
-Package pdftex.def Info: Magnum_Opus.jpg  used on input line 988.
+Package pdftex.def Info: Magnum_Opus.jpg  used on input line 990.
 (pdftex.def)             Requested size: 155.99762pt x 79.33366pt.
 
-Underfull \hbox (badness 3078) in paragraph at lines 989--989
+Underfull \hbox (badness 3078) in paragraph at lines 991--991
 []\OT1/ptm/b/n/10.95 Figura 3.1: |\OT1/ptm/m/n/10.95 (+20) Il-lu-stra-zio-ne de
 l-la
  []
@@ -1309,7 +1309,7 @@ l-la
 <paradiso_gironi.jpg, id=153, 144.54pt x 161.1621pt>
 File: paradiso_gironi.jpg Graphic file (type jpg)
 <use paradiso_gironi.jpg>
-Package pdftex.def Info: paradiso_gironi.jpg  used on input line 999.
+Package pdftex.def Info: paradiso_gironi.jpg  used on input line 1001.
 (pdftex.def)             Requested size: 155.99762pt x 173.94672pt.
  [35 <./paradiso_gironi.jpg>]
 <Champaigne,_Philippe_de_-_Saint_Augustin_-_1645-1650.jpg, id=157, 141.99925pt 
@@ -1318,33 +1318,33 @@ File: Champaigne,_Philippe_de_-_Saint_Augustin_-_1645-1650.jpg Graphic file (ty
 pe jpg)
 <use Champaigne,_Philippe_de_-_Saint_Augustin_-_1645-1650.jpg>
 Package pdftex.def Info: Champaigne,_Philippe_de_-_Saint_Augustin_-_1645-1650.j
-pg  used on input line 1036.
+pg  used on input line 1038.
 (pdftex.def)             Requested size: 136.50238pt x 173.69688pt.
  [36] [37 <./Champaigne,_Philippe_de_-_Saint_Augustin_-_1645-1650.jpg>]
 <e1c291c26f0dabef705c23443c7b5c30.jpg, id=165, 448.5558pt x 578.16pt>
 File: e1c291c26f0dabef705c23443c7b5c30.jpg Graphic file (type jpg)
 <use e1c291c26f0dabef705c23443c7b5c30.jpg>
 Package pdftex.def Info: e1c291c26f0dabef705c23443c7b5c30.jpg  used on input li
-ne 1061.
+ne 1063.
 (pdftex.def)             Requested size: 136.50238pt x 175.94595pt.
  [38]
-Overfull \hbox (3.31047pt too wide) in paragraph at lines 1069--1085
+Overfull \hbox (3.31047pt too wide) in paragraph at lines 1071--1087
 [][] 
  []
 
 <cri_000000376455.jpg, id=169, 481.8pt x 476.982pt>
 File: cri_000000376455.jpg Graphic file (type jpg)
 <use cri_000000376455.jpg>
-Package pdftex.def Info: cri_000000376455.jpg  used on input line 1091.
+Package pdftex.def Info: cri_000000376455.jpg  used on input line 1093.
 (pdftex.def)             Requested size: 195.0pt x 193.04564pt.
 <2012eob0123001_new-1_600x600_1000KB.jpg, id=170, 144.54pt x 100.9371pt>
 File: 2012eob0123001_new-1_600x600_1000KB.jpg Graphic file (type jpg)
 <use 2012eob0123001_new-1_600x600_1000KB.jpg>
 Package pdftex.def Info: 2012eob0123001_new-1_600x600_1000KB.jpg  used on input
- line 1095.
+ line 1097.
 (pdftex.def)             Requested size: 195.0pt x 136.18217pt.
 
-Overfull \hbox (2.28003pt too wide) in paragraph at lines 1090--1098
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 1092--1100
 []$[]$ $[]$ 
  []
 
@@ -1371,7 +1371,7 @@ xlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist
 /times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Elaborato-TwinPeaks.pdf (41 pages, 3652538 bytes).
+Output written on Elaborato-TwinPeaks.pdf (41 pages, 3652574 bytes).
 PDF statistics:
  220 PDF objects out of 1000 (max. 8388607)
  131 compressed objects within 2 object streams
