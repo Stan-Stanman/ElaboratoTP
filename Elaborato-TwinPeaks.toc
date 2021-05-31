@@ -43,3 +43,5 @@
 \contentsline {paragraph}{La conversione di Sant'Agostino}{XXXVII}%
 \contentsline {paragraph}{Sant'agostino e il tempo}{XXXVII}%
 \contentsline {section}{\numberline {3.2}Le metamorfosi di Philip Glass}{XXXIX}%
+\contentsline {paragraph}{La bellezza della ripetitività}{XXXIX}%
+\contentsline {paragraph}{Le metamorfosi}{XXXIX}%

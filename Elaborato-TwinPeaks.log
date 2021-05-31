@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.30)  30 MAY 2021 20:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.30)  31 MAY 2021 03:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -134,19 +134,6 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box46
 \enit@count@id=\count180
 \enitdp@description=\count181
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
-s
-\f@nch@headwidth=\skip51
-\f@nch@O@elh=\skip52
-\f@nch@O@erh=\skip53
-\f@nch@O@olh=\skip54
-\f@nch@O@orh=\skip55
-\f@nch@O@elf=\skip56
-\f@nch@O@erf=\skip57
-\f@nch@O@olf=\skip58
-\f@nch@O@orf=\skip59
 )
 (/usr/share/texlive/texmf-dist/tex/latex/index/index.sty
 Package: index 2004/01/20 v4.2beta Improved index support (dmj)
@@ -600,39 +587,14 @@ File: tikzlibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.co
 de.tex
 File: pgflibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-))) (/usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
-Package: blindtext 2012/01/06 V2.0 blindtext-Package
-
-(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
-Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
-)
-\c@blindtext=\count285
-\c@Blindtext=\count286
-\c@blind@countparstart=\count287
-\blind@countxx=\count288
-\blindtext@numBlindtext=\count289
-\blind@countyy=\count290
-\c@blindlist=\count291
-\c@blindlistlevel=\count292
-\c@blindlist@level=\count293
-\blind@listitem=\count294
-\c@blind@listcount=\count295
-\c@blind@levelcount=\count296
-\blind@mathformula=\count297
-\blind@Mathformula=\count298
-\c@blind@randomcount=\count299
-\c@blind@randommax=\count300
-\c@blind@pangramcount=\count301
-\c@blind@pangrammax=\count302
-)
-(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+))) (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
-\c@subfigure=\count303
-\c@subtable=\count304
+\c@subfigure=\count285
+\c@subtable=\count286
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2020/01/20 v2.17e AMS math features
-\@mathmargin=\skip60
+\@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -650,13 +612,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count305
+\inf@bad=\count287
 LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count306
-\leftroot@=\count307
+\uproot@=\count288
+\leftroot@=\count289
 LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count308
-\DOTSCASE@=\count309
+\classnum@=\count290
+\DOTSCASE@=\count291
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
@@ -665,15 +627,15 @@ LaTeX Info: Redefining \cdots on input line 610.
 \big@size=\dimen272
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count310
-\c@MaxMatrixCols=\count311
+\macc@depth=\count292
+\c@MaxMatrixCols=\count293
 \dotsspace@=\muskip16
-\c@parentequation=\count312
-\dspbrk@lvl=\count313
+\c@parentequation=\count294
+\dspbrk@lvl=\count295
 \tag@help=\toks38
-\row@=\count314
-\column@=\count315
-\maxfields@=\count316
+\row@=\count296
+\column@=\count297
+\maxfields@=\count298
 \andhelp@=\toks39
 \eqnshift@=\dimen273
 \alignsep@=\dimen274
@@ -682,8 +644,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \totwidth@=\dimen277
 \lineht@=\dimen278
 \@envbody=\toks40
-\multlinegap=\skip61
-\multlinetaggap=\skip62
+\multlinegap=\skip52
+\multlinetaggap=\skip53
 \mathdisplay@stack=\toks41
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
@@ -697,47 +659,47 @@ Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
 (/usr/share/texlive/texmf-dist/tex/latex/nextpage/nextpage.sty
 Package: nextpage 2009/09/03 v1.1a additional page commands
 )
-\beforeepigraphskip=\skip63
-\afterepigraphskip=\skip64
-\epigraphwidth=\skip65
-\epigraphrule=\skip66
+\beforeepigraphskip=\skip54
+\afterepigraphskip=\skip55
+\epigraphwidth=\skip56
+\epigraphrule=\skip57
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count317
+\l__kernel_color_stack_int=\count299
 \l__pdf_internal_box=\box61
 )
 (./Elaborato-TwinPeaks.aux)
 \openout1 = `Elaborato-TwinPeaks.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 2
-2.
+0.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-LaTeX Info: Redefining \microtypecontext on input line 22.
+LaTeX Info: Redefining \microtypecontext on input line 20.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 22.
+LaTeX Info: Redefining \showhyphens on input line 20.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -747,16 +709,16 @@ File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count318
+\scratchcounter=\count300
 \scratchdimen=\dimen279
 \scratchbox=\box62
-\nofMPsegments=\count319
-\nofMParguments=\count320
+\nofMPsegments=\count301
+\nofMParguments=\count302
 \everyMPshowfont=\toks42
-\MPscratchCnt=\count321
+\MPscratchCnt=\count303
 \MPscratchDim=\dimen280
-\MPnumerator=\count322
-\makeMPintoPDFobject=\count323
+\MPnumerator=\count304
+\makeMPintoPDFobject=\count305
 \everyMPtoPDFconversion=\toks43
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -767,8 +729,8 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \it@ocap on input line 22.
-LaTeX Info: Redefining \it@ccap on input line 22.
+LaTeX Info: Redefining \it@ocap on input line 20.
+LaTeX Info: Redefining \it@ccap on input line 20.
 
 
 File italian.ldf warning: 
@@ -776,7 +738,7 @@ italian.ldf    With OT1 encoding guillemets are poorly faked
 italian.ldf    Use T1 encoding
 italian.ldf    or specify a font with command \CaporaliFrom
 italian.ldf    See the documentation concerning the babel-italian typesetting 
-italian.ldf    on input line 22.
+italian.ldf    on input line 20.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
@@ -785,10 +747,15 @@ ABD: EveryShipout initializing macros
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into 
 your preamble.
- on input line 22.
+ on input line 20.
 
+<logoscuola.png, id=4, 1229.59375pt x 217.81375pt>
+File: logoscuola.png Graphic file (type png)
+<use logoscuola.png>
+Package pdftex.def Info: logoscuola.png  used on input line 24.
+(pdftex.def)             Requested size: 341.43306pt x 60.48224pt.
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 27.
+ 24.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
@@ -797,19 +764,19 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 27.
+ 24.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 27.
+ 24.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 27.
+ 24.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
@@ -821,23 +788,24 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logoscuola.png>]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
- [1] (./Elaborato-TwinPeaks.toc
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+ [1]
+(./Elaborato-TwinPeaks.toc
 Overfull \hbox (2.05179pt too wide) detected at line 10
  []\OT1/ptm/m/n/12 VIII
  []
@@ -895,173 +863,173 @@ Overfull \hbox (20.05174pt too wide) detected at line 45
 
 ]
 Capitolo 1.
-<Oresme-Nicole.jpg, id=18, 216.44865pt x 366.22823pt>
+<Oresme-Nicole.jpg, id=19, 216.44865pt x 366.22823pt>
 File: Oresme-Nicole.jpg Graphic file (type jpg)
 <use Oresme-Nicole.jpg>
-Package pdftex.def Info: Oresme-Nicole.jpg  used on input line 59.
+Package pdftex.def Info: Oresme-Nicole.jpg  used on input line 56.
 (pdftex.def)             Requested size: 85.80048pt x 145.16988pt.
-<Frans_Hals_-_Portret_van_René_Descartes.jpg, id=19, 820.06375pt x 1003.75pt>
+<Frans_Hals_-_Portret_van_René_Descartes.jpg, id=20, 820.06375pt x 1003.75pt>
 File: Frans_Hals_-_Portret_van_René_Descartes.jpg Graphic file (type jpg)
 <use Frans_Hals_-_Portret_van_René_Descartes.jpg>
 Package pdftex.def Info: Frans_Hals_-_Portret_van_René_Descartes.jpg  used on 
-input line 69.
+input line 66.
 (pdftex.def)             Requested size: 81.90262pt x 100.24303pt.
 [4
 
  <./Oresme-Nicole.jpg>] [5 <./Frans_Hals_-_Portret_van_René_Descartes.jpg>]
-<Cartesian_with_grid.svg.png, id=26, 441.65pt x 393.47pt>
+<Cartesian_with_grid.svg.png, id=27, 441.65pt x 393.47pt>
 File: Cartesian_with_grid.svg.png Graphic file (type png)
 <use Cartesian_with_grid.svg.png>
-Package pdftex.def Info: Cartesian_with_grid.svg.png  used on input line 85.
+Package pdftex.def Info: Cartesian_with_grid.svg.png  used on input line 82.
 (pdftex.def)             Requested size: 77.99881pt x 69.48868pt.
 
-Underfull \hbox (badness 1102) in paragraph at lines 86--86
+Underfull \hbox (badness 1102) in paragraph at lines 83--83
 []\OT1/ptm/b/n/10.95 Figura 1.3: |\OT1/ptm/m/n/10.95 (+20) Si-ste-
  []
 
 [6 <./Cartesian_with_grid.svg.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 127--129
+Underfull \hbox (badness 10000) in paragraph at lines 124--126
 
  []
 
-<esempio-di-funzione-1.png, id=33, 301.125pt x 155.58125pt>
+<esempio-di-funzione-1.png, id=34, 301.125pt x 155.58125pt>
 File: esempio-di-funzione-1.png Graphic file (type png)
 <use esempio-di-funzione-1.png>
-Package pdftex.def Info: esempio-di-funzione-1.png  used on input line 134.
+Package pdftex.def Info: esempio-di-funzione-1.png  used on input line 131.
 (pdftex.def)             Requested size: 81.89964pt x 42.31374pt.
-<esempio-di-funzione-2.png, id=34, 301.125pt x 155.58125pt>
+<esempio-di-funzione-2.png, id=35, 301.125pt x 155.58125pt>
 File: esempio-di-funzione-2.png Graphic file (type png)
 <use esempio-di-funzione-2.png>
-Package pdftex.def Info: esempio-di-funzione-2.png  used on input line 138.
+Package pdftex.def Info: esempio-di-funzione-2.png  used on input line 135.
 (pdftex.def)             Requested size: 81.89964pt x 42.31374pt.
 
-Overfull \hbox (2.28003pt too wide) in paragraph at lines 133--141
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 130--138
 []$[]$ $[]$ 
  []
 
-<esempio-di-non-funzione.png, id=35, 301.125pt x 201.75375pt>
+<esempio-di-non-funzione.png, id=36, 301.125pt x 201.75375pt>
 File: esempio-di-non-funzione.png Graphic file (type png)
 <use esempio-di-non-funzione.png>
-Package pdftex.def Info: esempio-di-non-funzione.png  used on input line 143.
+Package pdftex.def Info: esempio-di-non-funzione.png  used on input line 140.
 (pdftex.def)             Requested size: 105.29869pt x 70.55022pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--151
+Underfull \hbox (badness 10000) in paragraph at lines 146--148
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
 
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
-60.
+57.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) [7 <./esempio-di-funzione-1.png> <./esempio-di-funzione-2.png> <./esempio-di-
 non-funzione.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 168--170
+Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 171.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 168.
 
-<disegno_PQR.png, id=44, 1606.0pt x 942.52126pt>
+<disegno_PQR.png, id=45, 1606.0pt x 942.52126pt>
 File: disegno_PQR.png Graphic file (type png)
 <use disegno_PQR.png>
-Package pdftex.def Info: disegno_PQR.png  used on input line 178.
+Package pdftex.def Info: disegno_PQR.png  used on input line 175.
 (pdftex.def)             Requested size: 353.32109pt x 207.35532pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--186
+Underfull \hbox (badness 10000) in paragraph at lines 180--183
 
  []
 
 [8 <./disegno_PQR.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 186--189
+Underfull \hbox (badness 10000) in paragraph at lines 183--186
 
  []
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 190.
+LaTeX Warning: Command \textendash invalid in math mode on input line 187.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 191.
+LaTeX Warning: Command \textendash invalid in math mode on input line 188.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
 
  []
 
 NOTE: coordinate (1Y1.2569e-5],3Y0.0e0]) has been dropped because it is unbound
 ed (in y). (see also unbounded coords=jump). 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 237--240
+Underfull \hbox (badness 10000) in paragraph at lines 234--237
 
  []
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 241.
+LaTeX Warning: Command \textendash invalid in math mode on input line 238.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 242.
+LaTeX Warning: Command \textendash invalid in math mode on input line 239.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--245
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
 
  []
 
 NOTE: coordinate (1Y1.2569e-5],3Y0.0e0]) has been dropped because it is unbound
 ed (in y). (see also unbounded coords=jump). 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--289
+Underfull \hbox (badness 10000) in paragraph at lines 284--286
 
  []
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 290.
+LaTeX Warning: Command \textendash invalid in math mode on input line 287.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 291.
+LaTeX Warning: Command \textendash invalid in math mode on input line 288.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 294--295
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
 
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 337--339
+Underfull \hbox (badness 10000) in paragraph at lines 334--336
 
  []
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 340.
+LaTeX Warning: Command \textendash invalid in math mode on input line 337.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 341.
+LaTeX Warning: Command \textendash invalid in math mode on input line 338.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--345
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
 
  []
 
 [11]
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 389.
+LaTeX Warning: Command \textendash invalid in math mode on input line 386.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--391
+Underfull \hbox (badness 10000) in paragraph at lines 384--388
 
  []
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 392.
+LaTeX Warning: Command \textendash invalid in math mode on input line 389.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 393.
+LaTeX Warning: Command \textendash invalid in math mode on input line 390.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 397--398
+Underfull \hbox (badness 10000) in paragraph at lines 394--395
 
  []
 
@@ -1141,12 +1109,12 @@ nded (in y). (see also unbounded coords=jump).
 NOTE: coordinate (2Y1.0100684e0],3Y0.0e0]) has been dropped because it is unbou
 nded (in y). (see also unbounded coords=jump). 
 
-Underfull \hbox (badness 10000) in paragraph at lines 439--440
+Underfull \hbox (badness 10000) in paragraph at lines 436--437
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 445--447
+Underfull \hbox (badness 10000) in paragraph at lines 442--444
 
  []
 
@@ -1154,62 +1122,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 445--447
 NOTE: coordinate (0Y0.0e0],4Y0.0e0]) has been dropped because it is unbounded (
 in y). (see also unbounded coords=jump). 
 
-Overfull \hbox (31.18251pt too wide) in paragraph at lines 501--502
+Overfull \hbox (31.18251pt too wide) in paragraph at lines 498--499
 [][] 
  []
 
 
-Underfull \hbox (badness 2103) in paragraph at lines 505--506
+Underfull \hbox (badness 2103) in paragraph at lines 502--503
 [] \OT1/ptm/b/n/12 In-te-gra-li im-pro-pri[] \OT1/ptm/m/n/12 (+20) Quan-do si t
 rat-ta-no in-te-gra-
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 505--506
+Underfull \hbox (badness 1158) in paragraph at lines 502--503
 \OT1/ptm/m/n/12 (+20) li de-fi-ni-ti e in-de-fi-ni-ti si []e so-li-ti pre-met-t
 e-re nel-
  []
 
 
-Underfull \hbox (badness 1484) in paragraph at lines 505--506
+Underfull \hbox (badness 1484) in paragraph at lines 502--503
 \OT1/ptm/m/n/12 (+20) ti-nua in $\OT1/ztmcm/m/n/12 [\OML/ztmcm/m/it/12 a\OT1/zt
 mcm/m/n/12 ; \OML/ztmcm/m/it/12 b\OT1/ztmcm/m/n/12 ]$\OT1/ptm/m/n/12 (+20) . Tu
 t-ta-via, esi-ste un al-tro sen-so
  []
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 505--506
+Underfull \hbox (badness 1062) in paragraph at lines 502--503
 \OT1/ptm/m/n/12 (+20) sen-so im-pro-prio, la cui con-di-zio-ne ne-ces-sa-ria []
 e
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 505--506
+Underfull \hbox (badness 10000) in paragraph at lines 502--503
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 512--513
+Underfull \hbox (badness 10000) in paragraph at lines 509--510
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 514--515
+Underfull \hbox (badness 10000) in paragraph at lines 511--512
 
  []
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 525--528
+Underfull \hbox (badness 10000) in paragraph at lines 522--525
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 535--536
+Underfull \hbox (badness 10000) in paragraph at lines 532--533
 
  []
 
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 565--566
+Underfull \hbox (badness 10000) in paragraph at lines 562--563
 
  []
 
@@ -1229,114 +1197,114 @@ Capitolo 2.
 [19
 
 ]
-<1920px-Modernphysicsfields.svg.png, id=89, 1927.2pt x 869.2475pt>
+<1920px-Modernphysicsfields.svg.png, id=90, 1927.2pt x 869.2475pt>
 File: 1920px-Modernphysicsfields.svg.png Graphic file (type png)
 <use 1920px-Modernphysicsfields.svg.png>
 Package pdftex.def Info: 1920px-Modernphysicsfields.svg.png  used on input line
- 674.
+ 671.
 (pdftex.def)             Requested size: 195.0pt x 87.95114pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 677--678
+Underfull \hbox (badness 10000) in paragraph at lines 674--675
 
  []
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 679.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 676.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 679.
+LaTeX Warning: Command \textendash invalid in math mode on input line 676.
 
 [20 <./1920px-Modernphysicsfields.svg.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 697--698
+Underfull \hbox (badness 10000) in paragraph at lines 694--695
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 705--706
+Underfull \hbox (badness 10000) in paragraph at lines 702--703
 
  []
 
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 707--708
+Underfull \hbox (badness 10000) in paragraph at lines 704--705
 
  []
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 714.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 711.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 716.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 713.
 
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 750--751
+Underfull \hbox (badness 10000) in paragraph at lines 747--748
 
  []
 
 [23]
-<lAnHM.png, id=103, 401.5pt x 602.25pt>
+<lAnHM.png, id=104, 401.5pt x 602.25pt>
 File: lAnHM.png Graphic file (type png)
 <use lAnHM.png>
-Package pdftex.def Info: lAnHM.png  used on input line 783.
+Package pdftex.def Info: lAnHM.png  used on input line 780.
 (pdftex.def)             Requested size: 136.50238pt x 204.7531pt.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 789.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 786.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 790.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 787.
 
 [24 <./lAnHM.png>] [25]
-\c@problem=\count324
+\c@problem=\count306
 
-Underfull \hbox (badness 10000) in paragraph at lines 833--834
+Underfull \hbox (badness 10000) in paragraph at lines 830--831
 
  []
 
 [26]
-<bitmap.png, id=115, 1127.21124pt x 796.9775pt>
+<bitmap.png, id=116, 1127.21124pt x 796.9775pt>
 File: bitmap.png Graphic file (type png)
 <use bitmap.png>
-Package pdftex.def Info: bitmap.png  used on input line 837.
+Package pdftex.def Info: bitmap.png  used on input line 834.
 (pdftex.def)             Requested size: 272.99881pt x 193.0175pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 840--841
+Underfull \hbox (badness 10000) in paragraph at lines 837--838
 
  []
 
 [27 <./bitmap.png>] [28]
-<cannone-particelle.png, id=123, 1127.21124pt x 796.9775pt>
+<cannone-particelle.png, id=124, 1127.21124pt x 796.9775pt>
 File: cannone-particelle.png Graphic file (type png)
 <use cannone-particelle.png>
-Package pdftex.def Info: cannone-particelle.png  used on input line 912.
+Package pdftex.def Info: cannone-particelle.png  used on input line 909.
 (pdftex.def)             Requested size: 390.0pt x 275.74799pt.
  [29 <./cannone-particelle.png>]
-<sorgente.onde.png, id=128, 1127.21124pt x 796.9775pt>
+<sorgente.onde.png, id=129, 1127.21124pt x 796.9775pt>
 File: sorgente.onde.png Graphic file (type png)
 <use sorgente.onde.png>
-Package pdftex.def Info: sorgente.onde.png  used on input line 926.
+Package pdftex.def Info: sorgente.onde.png  used on input line 923.
 (pdftex.def)             Requested size: 390.0pt x 275.74799pt.
  [30 <./sorgente.onde.png>]
-<emettitore-elettroni.png, id=133, 1127.21124pt x 796.9775pt>
+<emettitore-elettroni.png, id=134, 1127.21124pt x 796.9775pt>
 File: emettitore-elettroni.png Graphic file (type png)
 <use emettitore-elettroni.png>
-Package pdftex.def Info: emettitore-elettroni.png  used on input line 941.
+Package pdftex.def Info: emettitore-elettroni.png  used on input line 938.
 (pdftex.def)             Requested size: 390.0pt x 275.74799pt.
  [31 <./emettitore-elettroni.png>]
-<emettitore-elettroni-illuminato.png, id=139, 1127.21124pt x 796.9775pt>
+<emettitore-elettroni-illuminato.png, id=140, 1127.21124pt x 796.9775pt>
 File: emettitore-elettroni-illuminato.png Graphic file (type png)
 <use emettitore-elettroni-illuminato.png>
 Package pdftex.def Info: emettitore-elettroni-illuminato.png  used on input lin
-e 956.
+e 953.
 (pdftex.def)             Requested size: 390.0pt x 275.74799pt.
  [32 <./emettitore-elettroni-illuminato.png>] [33]
 Capitolo 3.
-<Magnum_Opus.jpg, id=147, 1405.25pt x 714.67pt>
+<Magnum_Opus.jpg, id=148, 1405.25pt x 714.67pt>
 File: Magnum_Opus.jpg Graphic file (type jpg)
 <use Magnum_Opus.jpg>
-Package pdftex.def Info: Magnum_Opus.jpg  used on input line 984.
+Package pdftex.def Info: Magnum_Opus.jpg  used on input line 981.
 (pdftex.def)             Requested size: 155.99762pt x 79.33366pt.
 
-Underfull \hbox (badness 3078) in paragraph at lines 985--985
+Underfull \hbox (badness 3078) in paragraph at lines 982--982
 []\OT1/ptm/b/n/10.95 Figura 3.1: |\OT1/ptm/m/n/10.95 (+20) Il-lu-stra-zio-ne de
 l-la
  []
@@ -1344,48 +1312,75 @@ l-la
 [34
 
  <./Magnum_Opus.jpg>]
-<paradiso_gironi.jpg, id=152, 144.54pt x 161.1621pt>
+<paradiso_gironi.jpg, id=153, 144.54pt x 161.1621pt>
 File: paradiso_gironi.jpg Graphic file (type jpg)
 <use paradiso_gironi.jpg>
-Package pdftex.def Info: paradiso_gironi.jpg  used on input line 995.
+Package pdftex.def Info: paradiso_gironi.jpg  used on input line 992.
 (pdftex.def)             Requested size: 155.99762pt x 173.94672pt.
  [35 <./paradiso_gironi.jpg>]
-<Champaigne,_Philippe_de_-_Saint_Augustin_-_1645-1650.jpg, id=156, 141.99925pt 
+<Champaigne,_Philippe_de_-_Saint_Augustin_-_1645-1650.jpg, id=157, 141.99925pt 
 x 180.675pt>
 File: Champaigne,_Philippe_de_-_Saint_Augustin_-_1645-1650.jpg Graphic file (ty
 pe jpg)
 <use Champaigne,_Philippe_de_-_Saint_Augustin_-_1645-1650.jpg>
 Package pdftex.def Info: Champaigne,_Philippe_de_-_Saint_Augustin_-_1645-1650.j
-pg  used on input line 1032.
+pg  used on input line 1029.
 (pdftex.def)             Requested size: 136.50238pt x 173.69688pt.
- [36] [37 <./Champaigne,_Philippe_de_-_Saint_Augustin_-_1645-1650.jpg>] [38] [3
-9] [40
+ [36] [37 <./Champaigne,_Philippe_de_-_Saint_Augustin_-_1645-1650.jpg>]
+<e1c291c26f0dabef705c23443c7b5c30.jpg, id=165, 448.5558pt x 578.16pt>
+File: e1c291c26f0dabef705c23443c7b5c30.jpg Graphic file (type jpg)
+<use e1c291c26f0dabef705c23443c7b5c30.jpg>
+Package pdftex.def Info: e1c291c26f0dabef705c23443c7b5c30.jpg  used on input li
+ne 1054.
+(pdftex.def)             Requested size: 136.50238pt x 175.94595pt.
+ [38]
+Overfull \hbox (3.31047pt too wide) in paragraph at lines 1062--1078
+[][] 
+ []
 
-]
-(./Elaborato-TwinPeaks.aux) ) 
+<cri_000000376455.jpg, id=169, 481.8pt x 476.982pt>
+File: cri_000000376455.jpg Graphic file (type jpg)
+<use cri_000000376455.jpg>
+Package pdftex.def Info: cri_000000376455.jpg  used on input line 1084.
+(pdftex.def)             Requested size: 195.0pt x 193.04564pt.
+<2012eob0123001_new-1_600x600_1000KB.jpg, id=170, 144.54pt x 100.9371pt>
+File: 2012eob0123001_new-1_600x600_1000KB.jpg Graphic file (type jpg)
+<use 2012eob0123001_new-1_600x600_1000KB.jpg>
+Package pdftex.def Info: 2012eob0123001_new-1_600x600_1000KB.jpg  used on input
+ line 1088.
+(pdftex.def)             Requested size: 195.0pt x 136.18217pt.
+
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 1083--1091
+[]$[]$ $[]$ 
+ []
+
+[39 <./e1c291c26f0dabef705c23443c7b5c30.jpg>] [40 <./cri_000000376455.jpg> <./2
+012eob0123001_new-1_600x600_1000KB.jpg>] [41
+
+] (./Elaborato-TwinPeaks.aux) ) 
 Here is how much of TeX's memory you used:
- 28390 strings out of 482802
- 685583 string characters out of 5955390
- 1390342 words of memory out of 5000000
- 42963 multiletter control sequences out of 15000+600000
- 611767 words of font info for 330 fonts, out of 8000000 for 9000
+ 28120 strings out of 482802
+ 681987 string characters out of 5955390
+ 1375488 words of memory out of 5000000
+ 42691 multiletter control sequences out of 15000+600000
+ 612288 words of font info for 336 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 63i,20n,100p,1216b,2155s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/bas
-e/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/t
-imes/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Elaborato-TwinPeaks.pdf (40 pages, 2121834 bytes).
+ 63i,20n,100p,1385b,2155s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/b
+ase/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
+/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Elaborato-TwinPeaks.pdf (41 pages, 3648643 bytes).
 PDF statistics:
- 213 PDF objects out of 1000 (max. 8388607)
- 129 compressed objects within 2 object streams
+ 220 PDF objects out of 1000 (max. 8388607)
+ 131 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 41570 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 41590 words of extra memory for PDF output out of 42996 (max. 10000000)
 
