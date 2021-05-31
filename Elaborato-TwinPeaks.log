@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.30)  31 MAY 2021 03:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.30)  31 MAY 2021 16:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1181,17 +1181,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 562--563
 
  []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 [16]
 NOTE: coordinate (2Y3.0e0],4Y0.0e0]) has been dropped because it is unbounded (
 in y). (see also unbounded coords=jump). 
 NOTE: coordinate (1Y3.0000027e0],4Y0.0e0]) has been dropped because it is unbou
 nded (in y). (see also unbounded coords=jump). 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 [17] [18]
 Capitolo 2.
 [19
@@ -1301,10 +1295,10 @@ Capitolo 3.
 <Magnum_Opus.jpg, id=148, 1405.25pt x 714.67pt>
 File: Magnum_Opus.jpg Graphic file (type jpg)
 <use Magnum_Opus.jpg>
-Package pdftex.def Info: Magnum_Opus.jpg  used on input line 981.
+Package pdftex.def Info: Magnum_Opus.jpg  used on input line 988.
 (pdftex.def)             Requested size: 155.99762pt x 79.33366pt.
 
-Underfull \hbox (badness 3078) in paragraph at lines 982--982
+Underfull \hbox (badness 3078) in paragraph at lines 989--989
 []\OT1/ptm/b/n/10.95 Figura 3.1: |\OT1/ptm/m/n/10.95 (+20) Il-lu-stra-zio-ne de
 l-la
  []
@@ -1315,7 +1309,7 @@ l-la
 <paradiso_gironi.jpg, id=153, 144.54pt x 161.1621pt>
 File: paradiso_gironi.jpg Graphic file (type jpg)
 <use paradiso_gironi.jpg>
-Package pdftex.def Info: paradiso_gironi.jpg  used on input line 992.
+Package pdftex.def Info: paradiso_gironi.jpg  used on input line 999.
 (pdftex.def)             Requested size: 155.99762pt x 173.94672pt.
  [35 <./paradiso_gironi.jpg>]
 <Champaigne,_Philippe_de_-_Saint_Augustin_-_1645-1650.jpg, id=157, 141.99925pt 
@@ -1324,33 +1318,33 @@ File: Champaigne,_Philippe_de_-_Saint_Augustin_-_1645-1650.jpg Graphic file (ty
 pe jpg)
 <use Champaigne,_Philippe_de_-_Saint_Augustin_-_1645-1650.jpg>
 Package pdftex.def Info: Champaigne,_Philippe_de_-_Saint_Augustin_-_1645-1650.j
-pg  used on input line 1029.
+pg  used on input line 1036.
 (pdftex.def)             Requested size: 136.50238pt x 173.69688pt.
  [36] [37 <./Champaigne,_Philippe_de_-_Saint_Augustin_-_1645-1650.jpg>]
 <e1c291c26f0dabef705c23443c7b5c30.jpg, id=165, 448.5558pt x 578.16pt>
 File: e1c291c26f0dabef705c23443c7b5c30.jpg Graphic file (type jpg)
 <use e1c291c26f0dabef705c23443c7b5c30.jpg>
 Package pdftex.def Info: e1c291c26f0dabef705c23443c7b5c30.jpg  used on input li
-ne 1054.
+ne 1061.
 (pdftex.def)             Requested size: 136.50238pt x 175.94595pt.
  [38]
-Overfull \hbox (3.31047pt too wide) in paragraph at lines 1062--1078
+Overfull \hbox (3.31047pt too wide) in paragraph at lines 1069--1085
 [][] 
  []
 
 <cri_000000376455.jpg, id=169, 481.8pt x 476.982pt>
 File: cri_000000376455.jpg Graphic file (type jpg)
 <use cri_000000376455.jpg>
-Package pdftex.def Info: cri_000000376455.jpg  used on input line 1084.
+Package pdftex.def Info: cri_000000376455.jpg  used on input line 1091.
 (pdftex.def)             Requested size: 195.0pt x 193.04564pt.
 <2012eob0123001_new-1_600x600_1000KB.jpg, id=170, 144.54pt x 100.9371pt>
 File: 2012eob0123001_new-1_600x600_1000KB.jpg Graphic file (type jpg)
 <use 2012eob0123001_new-1_600x600_1000KB.jpg>
 Package pdftex.def Info: 2012eob0123001_new-1_600x600_1000KB.jpg  used on input
- line 1088.
+ line 1095.
 (pdftex.def)             Requested size: 195.0pt x 136.18217pt.
 
-Overfull \hbox (2.28003pt too wide) in paragraph at lines 1083--1091
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 1090--1098
 []$[]$ $[]$ 
  []
 
@@ -1359,11 +1353,11 @@ Overfull \hbox (2.28003pt too wide) in paragraph at lines 1083--1091
 
 ] (./Elaborato-TwinPeaks.aux) ) 
 Here is how much of TeX's memory you used:
- 28120 strings out of 482802
- 681987 string characters out of 5955390
- 1375488 words of memory out of 5000000
- 42691 multiletter control sequences out of 15000+600000
- 612288 words of font info for 336 fonts, out of 8000000 for 9000
+ 28117 strings out of 482802
+ 681945 string characters out of 5955390
+ 1372494 words of memory out of 5000000
+ 42692 multiletter control sequences out of 15000+600000
+ 612308 words of font info for 334 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  63i,20n,100p,1385b,2155s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/b
@@ -1377,7 +1371,7 @@ xlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist
 /times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Elaborato-TwinPeaks.pdf (41 pages, 3648643 bytes).
+Output written on Elaborato-TwinPeaks.pdf (41 pages, 3652538 bytes).
 PDF statistics:
  220 PDF objects out of 1000 (max. 8388607)
  131 compressed objects within 2 object streams
